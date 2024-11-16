@@ -5,8 +5,9 @@ Images:
 
 ![image](https://github.com/user-attachments/assets/74f07c37-bd42-4705-a625-de2fb45ee9f9)
 
+Members: Christian Mueth, DeAndre Thomas, Jaison Dasika Joseph Fleenor, Cole Gala, Shuhan Liu,
 
-*By: Christian Mueth, Shuhan Liu*
+*The code on this page is by: Christian Mueth, Shuhan Liu*
 
 Title: Ankle Exoskeleton Sensor and Motor Control
 
@@ -14,8 +15,6 @@ File Title: ankle_test_code_withpseudocode_6_6_2024
 
 
 For: ME Team #1 senior design (2024) Running Exoskeleton
-
-Members: Christian Mueth, DeAndre Thomas, Jaison Dasika Joseph Fleenor, Cole Gala, Shuhan Liu,
 
 Advisor: Dr. Alan Asbeck
 
