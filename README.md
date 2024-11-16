@@ -1,3 +1,7 @@
+Image:
+![image](https://github.com/user-attachments/assets/74f07c37-bd42-4705-a625-de2fb45ee9f9)
+
+
 *By: Christian Mueth, Shuhan Liu*
 
 Title: Ankle Exoskeleton Sensor and Motor Control
